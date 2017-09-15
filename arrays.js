@@ -8,5 +8,5 @@ function addElementToBeginningOfArray(array, element) {
 
 
 // function destructivelyAddElementToBeginningOfArray(arr, el){
-// 
+//
 // }
